@@ -1,7 +1,8 @@
-streamlit==1.38.0
-Pillow==10.4.0
-moviepy==1.0.3
-numpy==2.1.0
-requests==2.32.3
-python-dotenv==1.0.1
+streamlit>=1.35.0
+Pillow>=10.0.0
+moviepy>=1.0.3
+numpy>=1.24.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
 
